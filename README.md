@@ -1,6 +1,6 @@
 # Para quem fez instalação com o Setup Orion (Portainer + Traefik) e quer instalar o Perfex CRM em Docker:
 ![image](https://github.com/ilMateusli/Perfex-docker/assets/88564848/930b2327-1a92-418c-bc7b-74bd440eafa3)
-![image](https://github.com/ilMateusli/Perfex-docker/assets/88564848/aa78048b-efe7-473a-b4c3-12c40e40d441)
+<img src="https://github.com/ilMateusli/Perfex-docker/assets/88564848/aa78048b-efe7-473a-b4c3-12c40e40d441" width="200">
 
 ### Configurar e colocar os arquivos Dockerfile e docker-compose.yml na pasta /root/Perfex-CRM
 
